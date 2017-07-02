@@ -1,0 +1,51 @@
+[
+	{
+		"questsion" : "Welcome to Medius.",
+		"type":"none",
+		"answer":[]
+	},
+	{
+		"questsion":"I am going to ask you few questions that will help me know you better?",
+		"type":"button",
+		"answer":["okay"]
+	},
+	{
+		"questsion":"Are you male or female?",
+		"type":"button",
+		"answer":["male", "female", "other"]
+	},
+	{
+		"questsion":"When were you born?",
+		"type":"date"
+	},
+	{
+		"questsion":"Are you a smoker?",
+		"type":"button",
+		"answer":["Yes", "No"]
+	},
+	{
+		"questsion":"Thank you.",
+		"type":"none",
+		"answer":[]
+	},
+	{
+		"questsion":"We will now begin assessment.",
+		"type":"none",
+		"answer":[]
+	},
+	{
+		"questsion":"Enter a symptom from the drop-down list.",
+		"type":"dropdown",
+		"answer":["headache", "cold", "fever", "throat pain"]
+	},
+	{
+		"questsion":"Thanks.",
+		"type":"none",
+		"answer":[]
+	},
+	{
+		"questsion":"We are preparing the results.",
+		"type":"none",
+		"answer":[]	
+	}
+]
